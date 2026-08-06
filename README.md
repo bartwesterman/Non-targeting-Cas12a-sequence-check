@@ -462,10 +462,16 @@ Suggested Methods wording:
 
 ## Citation
 
-When using this workflow, cite the relevant NCBI BLAST+, NCBI Datasets, human reference assembly, and Cas12a/enAsCas12a source publications appropriate to your analysis.
+When using this workflow in research, publications, presentations, or derived analytical pipelines, please cite or otherwise acknowledge:
+Author: Bart Westerman
+Software repository: this GitHub repository, including the repository URL and the version, release, or commit used
+NCBI BLAST+
+NCBI Datasets
+the NCBI RefSeq GRCh38.p14 assembly (GCF_000001405.40)
+the relevant Cas12a or enAsCas12a source publication(s)
 
-Add a project-specific citation here after the repository is archived or published.
+Source control sequences come from: Snetkova 2026 A tunable Cas12a platform for single cell perturbation screening and CRISPRi 
 
 ## License
 
-No license is implied by publication of the source code. Add an explicit license file, such as `LICENSE`, before distributing or reusing the software under defined terms.
+MIT licence
