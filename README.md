@@ -1,6 +1,5 @@
 # Non-targeting-Cas12a-sequence-check
-Checking Cas12a sgRNA as non-targeting sequences using the human GRCh38 reference genome
-# Cas12a Guide Classification Against Human GRCh38
+)Checking Cas12a sgRNA as non-targeting sequences using the human GRCh38 reference genome)
 
 Classify Cas12a guide RNA spacer sequences as exact human-genome targets, olfactory-receptor targets, or non-targeting controls by running a local short-sequence BLAST search against the human GRCh38 reference genome.
 
