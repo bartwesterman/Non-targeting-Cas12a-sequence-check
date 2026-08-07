@@ -9,7 +9,7 @@ The script downloads the NCBI RefSeq **GRCh38.p14** assembly and gene annotation
 
 - Searches the human **GRCh38.p14** reference assembly (`GCF_000001405.40`)
 - Uses NCBI `blastn-short` for short guide sequences
-- Searches **both genomic strands**
+- Searches both genomic strands
 - Detects exact full-length, ungapped genomic matches
 - Reports full-length matches with one or two mismatches
 - Reports exact near-full-length partial alignments
@@ -463,8 +463,7 @@ Suggested Methods wording:
 ## Citation
 
 When using this workflow in research, publications, presentations, or derived analytical pipelines, please cite or otherwise acknowledge:
-Author: Bart Westerman
-Software repository: this GitHub repository, including the repository URL and the version, release, or commit used
+Author: Bart Westerman; Software repository: this GitHub repository, including the repository URL and the version, release, or commit used
 NCBI BLAST+
 NCBI Datasets
 the NCBI RefSeq GRCh38.p14 assembly (GCF_000001405.40)
